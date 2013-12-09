@@ -1,4 +1,4 @@
-package JohnTheAwsome123.mods.AdvancedCraft.constants;
+package JohnTheAwsome123.mods.AdvancedCraft.lib;
 
 import net.minecraft.block.Block;
 import net.minecraft.item.Item;
